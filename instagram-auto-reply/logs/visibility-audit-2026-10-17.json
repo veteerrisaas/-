@@ -1,0 +1,127 @@
+{
+  "post": "https://www.instagram.com/cazetv/p/DemOAsMDaiD/",
+  "sample": [
+    {
+      "id": "18115254470038209",
+      "author": "betaopersonal_",
+      "sentAt": "2026-10-17T13:34:33.788Z"
+    },
+    {
+      "id": "18094512986170470",
+      "author": "isa_maria192",
+      "sentAt": "2026-10-17T13:31:45.779Z"
+    }
+  ],
+  "accounts": [
+    {
+      "account": "gabrieldastip",
+      "parents": [
+        {
+          "id": "18115254470038209",
+          "author": "betaopersonal_",
+          "parentLoaded": true,
+          "reads": [
+            {
+              "confirmed": true,
+              "complete": true,
+              "empty": false,
+              "limited": false,
+              "authors": [
+                "gabrieldastip"
+              ]
+            }
+          ],
+          "replies": [
+            {
+              "id": "18449742874123814",
+              "author": "gabrieldastip",
+              "matchesMessage": true
+            }
+          ],
+          "selfReplyFound": true
+        },
+        {
+          "id": "18094512986170470",
+          "author": "isa_maria192",
+          "parentLoaded": true,
+          "reads": [
+            {
+              "confirmed": true,
+              "complete": true,
+              "empty": false,
+              "limited": false,
+              "authors": [
+                "gabrieldastip"
+              ]
+            }
+          ],
+          "replies": [
+            {
+              "id": "18074489285753401",
+              "author": "gabrieldastip",
+              "matchesMessage": true
+            }
+          ],
+          "selfReplyFound": true
+        }
+      ],
+      "accountVerified": true,
+      "loaded": 10
+    },
+    {
+      "account": "golsdodia.galo",
+      "parents": [
+        {
+          "id": "18115254470038209",
+          "author": "betaopersonal_",
+          "parentLoaded": true,
+          "reads": [
+            {
+              "confirmed": true,
+              "complete": true,
+              "empty": false,
+              "limited": false,
+              "authors": [
+                "gabrieldastip"
+              ]
+            }
+          ],
+          "replies": [
+            {
+              "id": "18449742874123814",
+              "author": "gabrieldastip",
+              "matchesMessage": true
+            }
+          ],
+          "selfReplyFound": true
+        },
+        {
+          "id": "18094512986170470",
+          "author": "isa_maria192",
+          "parentLoaded": true,
+          "reads": [
+            {
+              "confirmed": true,
+              "complete": true,
+              "empty": false,
+              "limited": false,
+              "authors": [
+                "gabrieldastip"
+              ]
+            }
+          ],
+          "replies": [
+            {
+              "id": "18074489285753401",
+              "author": "gabrieldastip",
+              "matchesMessage": true
+            }
+          ],
+          "selfReplyFound": true
+        }
+      ],
+      "accountVerified": true,
+      "loaded": 12
+    }
+  ]
+}

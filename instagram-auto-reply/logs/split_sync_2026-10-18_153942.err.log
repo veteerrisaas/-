@@ -1,0 +1,13 @@
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+TargetClosedError2: "page.evaluate: Target page, context or browser has been closed" while running route callback.
+Consider awaiting `await page.unrouteAll({ behavior: 'ignoreErrors' })`
+before the end of the test to ignore remaining routes in flight.
+    at hasReplyBanner (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\instagram\reply.js:44:30)
+    at async guardRoute (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\instagram\reply.js:197:11) {
+  log: []
+}
+
+Node.js v24.19.0

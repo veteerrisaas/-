@@ -1,0 +1,30 @@
+[2026-10-24 08:00:51] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/De3-a1jjJZI/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:29:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:40:21)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-10-24 08:06:14] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/De3--4UjxjD/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:29:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:32:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:40:21)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-10-24 22:15:18] ERROR [tntsportsbr-1] Erro no perfil @tntsportsbr: O Instagram encerrou a sessão durante os envios; registro pendente preservado.
+[2026-10-24 22:15:21] ERROR [tntsportsbr-1] Sessão não encontrada ou expirada. Rode "npm run login".
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.
+Não foi possível preparar o par: Login ausente de @gabrieldastip. Use npm run login -- --instance tntsportsbr-1, faça login e aguarde o encerramento da janela.

@@ -1,0 +1,41 @@
+[2026-10-23 00:55:21] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/De0hINyjksA/: EPERM: operation not permitted, open 'C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock'
+[2026-10-23 07:22:33] ERROR [tntsportsbr-1] Erro no perfil @tntsportsbr: page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/tntsportsbr/
+Call log:
+[2m  - navigating to "https://www.instagram.com/tntsportsbr/", waiting until "domcontentloaded"[22m
+
+[2026-10-23 07:22:34] ERROR [tntsportsbr-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)
+[2026-10-23 07:22:34] ERROR [tntsportsbr-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)
+[2026-10-23 07:22:35] ERROR [tntsportsbr-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)
+[2026-10-23 07:22:35] ERROR [tntsportsbr-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)
+[2026-10-23 07:22:36] ERROR [tntsportsbr-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)
+[2026-10-23 07:22:36] ERROR [tntsportsbr-1] 5 ciclos seguidos com erro. Parando o serviço.

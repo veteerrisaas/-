@@ -1,0 +1,5 @@
+[2026-10-31 13:31:10] ERROR [cazetv-1] Oito envios consecutivos sem confirmação. Serviço interrompido; registros pendentes preservados.
+[2026-10-31 13:46:57] ERROR [tntsportsbr-1] A sessao nao foi confirmada como @gbrdastip; nenhum envio iniciado.
+[2026-10-31 13:46:57] ERROR [cazetv-1] A sessao nao foi confirmada como @gbrdastip; nenhum envio iniciado.
+[2026-10-31 17:56:11] ERROR [tntsportsbr-1] A sessao nao foi confirmada como @gbrdastip; nenhum envio iniciado.
+[2026-10-31 17:56:11] ERROR [cazetv-1] A sessao nao foi confirmada como @gbrdastip; nenhum envio iniciado.

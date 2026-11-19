@@ -1,0 +1,10 @@
+[2026-11-15 21:01:27] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/reel/DfyAtiJgqax/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)

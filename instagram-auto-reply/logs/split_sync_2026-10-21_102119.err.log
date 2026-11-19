@@ -1,0 +1,2 @@
+[2026-10-21 13:31:26] ERROR [tntsportsbr-1] Erro no perfil @tntsportsbr: O Instagram encerrou a sessão durante os envios; registro pendente preservado.
+[2026-10-21 13:31:30] ERROR [tntsportsbr-1] Sessão não encontrada ou expirada. Rode "npm run login".

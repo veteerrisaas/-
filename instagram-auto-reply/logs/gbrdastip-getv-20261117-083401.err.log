@@ -1,0 +1,179 @@
+[2026-11-17 09:23:24] ERROR [cazetv-1]   publica√ß√£o bloqueada localmente: requisi√ß√£o sem v√≠nculo com o coment√°rio 18109567772220205.
+[2026-11-17 09:23:25] ERROR [cazetv-1] Publica√ß√£o bloqueada localmente: o envio n√£o apontava para o coment√°rio correto. Servi√ßo interrompido sem repetir o envio.
+[2026-11-17 10:22:14] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/reel/Df01oGKhuPK/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 10:32:23] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/p/Df1_EN8kdgW/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 10:50:02] ERROR [tntsportsbr-1] BLOQUEIO/VERIFICA√á√ÉO: Envio recusado pelo Instagram (HTTP 200): Restringimos determinadas atividades para proteger nossa comunidade. Diga-nos se voc√™ acha que isto foi um engano.; servi√ßo interrompido.. Parando imediatamente.
+[2026-11-17 11:29:56] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/p/Df2Gi3cnIQ1/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 13:10:09] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/p/Df2UKS4E--9/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 13:18:33] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/p/Df2UKS4E--9/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 13:20:51] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/p/Df2UKS4E--9/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 14:55:17] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2gtXFEUTn/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 15:17:35] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2hzINnGmI/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 15:56:14] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2nk8bjQNC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 16:11:13] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2nk8bjQNC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 16:21:40] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2nk8bjQNC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 16:44:12] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2qEVHEozu/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 17:32:56] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/p/Df2rGc4E9Rl/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 17:38:30] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df2qEVHEozu/: page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/getv/reel/Df2qEVHEozu/
+Call log:
+[2m  - navigating to "https://www.instagram.com/getv/reel/Df2qEVHEozu/", waiting until "domcontentloaded"[22m
+
+[2026-11-17 17:38:58] ERROR [cazetv-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:354:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:567:27)
+[2026-11-17 17:39:21] ERROR [cazetv-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:354:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:567:27)
+[2026-11-17 17:39:45] ERROR [cazetv-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:354:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:567:27)
+[2026-11-17 17:40:18] ERROR [cazetv-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:354:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:567:27)
+[2026-11-17 17:40:53] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/p/Df2wbirAbzR/: page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/tntsportsbr/p/Df2wbirAbzR/
+Call log:
+[2m  - navigating to "https://www.instagram.com/tntsportsbr/p/Df2wbirAbzR/", waiting until "domcontentloaded"[22m
+
+[2026-11-17 17:40:54] ERROR [cazetv-1] page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:354:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:567:27)
+[2026-11-17 17:40:55] ERROR [cazetv-1] 5 ciclos seguidos com erro. Parando o servi√ßo.
+[2026-11-17 18:49:24] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/reel/Df25gVVD1c5/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-17 19:48:57] ERROR [cazetv-1] Erro no post https://www.instagram.com/getv/p/Df3CHZ1BLGp/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-17 19:52:00] ERROR [cazetv-1] Erro no perfil @getv: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.instagram.com/getv/
+Call log:
+[2m  - navigating to "https://www.instagram.com/getv/", waiting until "domcontentloaded"[22m
+
+ERRO: o processo com PID 11984 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 1884 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 45180 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 57312 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 45024 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 14196 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 54748 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 53104 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 47348 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 54412 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 27864 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 11168 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† suporte para a operaá∆o tentada.
+ERRO: o processo com PID 26612 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† suporte para a operaá∆o tentada.
+ERRO: o processo com PID 36384 (processo filho de PID 11628) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 46176 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.
+ERRO: o processo com PID 44360 (processo filho de PID 18960) n∆o pìde ser finalizado.
+Raz∆o: N∆o h† ocorrància da tarefa em execuá∆o.

@@ -1,0 +1,29 @@
+[2026-10-20 17:35:51] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/Deusp9yFhcA/: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/cazetv/p/Deusp9yFhcA/
+Call log:
+[2m  - navigating to "https://www.instagram.com/cazetv/p/Deusp9yFhcA/", waiting until "domcontentloaded"[22m
+
+[2026-10-20 17:35:52] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/reel/DeusZtPCWWD/: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/cazetv/reel/DeusZtPCWWD/
+Call log:
+[2m  - navigating to "https://www.instagram.com/cazetv/reel/DeusZtPCWWD/", waiting until "domcontentloaded"[22m
+
+[2026-10-20 17:35:52] ERROR [cazetv-1] page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:299:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:493:27)
+[2026-10-20 17:35:53] ERROR [cazetv-1] page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:299:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:493:27)
+[2026-10-20 18:06:56] ERROR [cazetv-1] page.goto: Timeout 120000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:299:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:493:27)

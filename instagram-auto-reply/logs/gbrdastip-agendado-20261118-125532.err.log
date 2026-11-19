@@ -1,0 +1,115 @@
+[2026-11-18 14:14:57] ERROR [geglobo-1] Erro no post https://www.instagram.com/ge.globo/reel/Df4_Er_jBpA/: page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.instagram.com/ge.globo/reel/Df4_Er_jBpA/
+Call log:
+[2m  - navigating to "https://www.instagram.com/ge.globo/reel/Df4_Er_jBpA/", waiting until "domcontentloaded"[22m
+
+[2026-11-18 14:27:17] ERROR [geglobo-1] Erro no post https://www.instagram.com/ge.globo/reel/Df4_Er_jBpA/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-18 14:38:13] ERROR [espnbrasil-1] Erro no post https://www.instagram.com/espnbrasil/reel/Df5DhLpjBBn/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 14:41:31] ERROR [espnbrasil-1] Erro no post https://www.instagram.com/plbrasil/p/Df5C7KWlYXL/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 15:02:43] ERROR [espnbrasil-1] Erro no post https://www.instagram.com/plbrasil/p/Df5C7KWlYXL/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:01:09] ERROR [sportv-1] Erro no post https://www.instagram.com/sportv/p/Df5L4DYhJFC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:12:43] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/reel/Df49OBtT85v/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:14:18] ERROR [sportv-1] Erro no post https://www.instagram.com/sportv/p/Df5L4DYhJFC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:18:35] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/p/Df5NN6LhBmd/: EPERM: operation not permitted, rename 'C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.tmp' -> 'C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json'
+[2026-11-18 16:19:03] ERROR [sportv-1] Erro no post https://www.instagram.com/sportv/p/Df5L4DYhJFC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:31:40] ERROR [sportv-1] Erro no post https://www.instagram.com/sportv/p/Df5QpVmgFdF/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-11-18 16:39:39] ERROR [sportv-1] Erro no post https://www.instagram.com/sportv/p/Df5L4DYhJFC/: page.evaluate: SecurityError: Failed to read a named property 'code' from 'Window': Blocked a frame with origin "https://www.instagram.com" from accessing a cross-origin frame.
+    at walk (eval at evaluate (:370:30), <anonymous>:18:7)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at walk (eval at evaluate (:370:30), <anonymous>:20:96)
+    at eval (eval at evaluate (:370:30), <anonymous>:28:23)
+    at UtilityScript.evaluate (<anonymous>:372:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:61134
+          throw new Error([
+                ^
+
+Error: Frame for this navigation request is not available, because the request
+was issued before the frame is created. You can check whether the request
+is a navigation request by calling isNavigationRequest() method.
+    at _Request.frame (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:61134:17)
+    at _BrowserContext.onResponse (file:///C:/Users/vitor.oliveira/Desktop/$/instagram-auto-reply/src/guard.js:38:19)
+    at _BrowserContext._callHandler (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:11647:33)
+    at _BrowserContext.emit (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:11637:16)
+    at _BrowserContext._onResponse (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:63877:14)
+    at Proxy.<anonymous> (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:63829:78)
+    at Proxy._callHandler (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:11647:33)
+    at Proxy.emit (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:11637:16)
+    at Connection.dispatch (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:65476:25)
+    at Immediate.<anonymous> (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\node_modules\playwright-core\lib\coreBundle.js:65537:85)
+
+Node.js v24.19.0

@@ -1,0 +1,6 @@
+[2026-10-30 12:37:35] ERROR [cazetv-1] BLOQUEIO/VERIFICAÇÃO: Envio recusado pelo Instagram (HTTP 200): Restringimos determinadas atividades para proteger nossa comunidade. Diga-nos se você acha que isto foi um engano.; serviço interrompido.. Parando imediatamente.
+[2026-10-30 12:53:11] ERROR [tntsportsbr-1] BLOQUEIO/VERIFICAÇÃO: Envio recusado pelo Instagram (HTTP 200): Restringimos determinadas atividades para proteger nossa comunidade. Diga-nos se você acha que isto foi um engano.; serviço interrompido.. Parando imediatamente.
+[2026-10-30 12:53:11] ERROR [cazetv-1] BLOQUEIO/VERIFICAÇÃO: Envio recusado pelo Instagram (HTTP 200): Restringimos determinadas atividades para proteger nossa comunidade. Diga-nos se você acha que isto foi um engano.; serviço interrompido.. Parando imediatamente.
+[2026-10-30 13:23:58] ERROR [cazetv-1] Erro no perfil @cazetv: O Instagram encerrou a sessão durante os envios; registro pendente preservado.
+[2026-10-30 13:24:01] ERROR [tntsportsbr-1] Erro no perfil @tntsportsbr: O Instagram encerrou a sessão durante os envios; registro pendente preservado.
+[2026-10-30 13:24:19] ERROR [tntsportsbr-1] Sessão não encontrada ou expirada. Rode "npm run login".

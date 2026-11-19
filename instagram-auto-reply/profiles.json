@@ -1,0 +1,164 @@
+{
+  "profiles": [
+    {
+      "username": "getv",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": false,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅",
+        "ATENÇÃOO! Tá sem casa pra fazer a boa? Corre lá nos meus storiess! 😎🔥✅",
+        "ATENÇÃOO, GALERA! Precisando de casa pra fazer a boa? Tá tudo nos meus storiess! 😎💰✅",
+        "INFORMAÇÃOO! Quem tá sem casa pra fazer as boa já sabe, corre nos storiess! 🤑✅✅",
+        "ATENÇÃOO! Pra quem ainda não achou a casa pra fazer a boa, é só ver meus storiess! 😎✅",
+        "INFORMAÇÃOO! Separei a casa certa pra quem quer fazer a boa, confere nos storiess! 😎✅✅",
+        "ATENÇÃOO! Sem casa confiável pra fazer as boa? Os storiess tão te esperando! 😎💰✅",
+        "ALERTAA! Quem tá procurando casa pra fazer a boa, passa nos meus storiess! 🔥✅"
+      ]
+    },
+    {
+      "username": "tntsportsbr",
+      "enabled": true,
+      "postsToCheck": 3,
+      "maxPerRun": false,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅",
+        "ATENÇÃOO! Tá sem casa pra fazer a boa? Corre lá nos meus storiess! 😎🔥✅",
+        "ATENÇÃOO, GALERA! Precisando de casa pra fazer a boa? Tá tudo nos meus storiess! 😎💰✅",
+        "INFORMAÇÃOO! Quem tá sem casa pra fazer as boa já sabe, corre nos storiess! 🤑✅✅",
+        "ATENÇÃOO! Pra quem ainda não achou a casa pra fazer a boa, é só ver meus storiess! 😎✅",
+        "INFORMAÇÃOO! Separei a casa certa pra quem quer fazer a boa, confere nos storiess! 😎✅✅",
+        "ATENÇÃOO! Sem casa confiável pra fazer as boa? Os storiess tão te esperando! 😎💰✅",
+        "ALERTAA! Quem tá procurando casa pra fazer a boa, passa nos meus storiess! 🔥✅"
+      ]
+    },
+    {
+      "username": "corinthians",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 22,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅",
+        "ATENÇÃOO! Tá sem casa pra fazer a boa? Corre lá nos meus storiess! 😎🔥✅"
+      ]
+    },
+    {
+      "username": "flamengo",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 22,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅",
+        "ATENÇÃOO! Tá sem casa pra fazer a boa? Corre lá nos meus storiess! 😎🔥✅"
+      ]
+    },
+    {
+      "username": "tvglobo",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "ge.globo",
+      "enabled": true,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "espnbrasil",
+      "enabled": true,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "sportv",
+      "enabled": true,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "santosfc",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "palmeiras",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "saopaulofc",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "vascodagama",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "gremio",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "atletico",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "cruzeiro",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    },
+    {
+      "username": "fluminensefc",
+      "enabled": false,
+      "postsToCheck": 3,
+      "maxPerRun": 2,
+      "messages": [
+        "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅"
+      ]
+    }
+  ]
+}

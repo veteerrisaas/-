@@ -1,0 +1,9 @@
+[2026-10-29 17:22:37] ERROR [tntsportsbr-1] Erro no post https://www.instagram.com/tntsportsbr/reel/DfF1OIJkiwS/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-10-29 17:34:01] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/DfF1yB6I67H/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-10-29 18:06:21] ERROR [cazetv-1] page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.instagram.com/
+Call log:
+[2m  - navigating to "https://www.instagram.com/", waiting until "domcontentloaded"[22m
+
+    at page.goto (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\browser.js:29:66)
+    at runCycle (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:323:14)
+    at main (C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\src\index.js:533:27)

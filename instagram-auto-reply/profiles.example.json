@@ -1,0 +1,23 @@
+{
+  "profiles": [
+    {
+      "username": "seu_usuario",
+      "enabled": true
+    },
+    {
+      "username": "outro_perfil",
+      "enabled": true,
+      "postsToCheck": 3,
+      "maxPerRun": 5,
+      "messages": [
+        "Obrigado pelo comentário! 💙",
+        "Que bom que você gostou!",
+        "Valeu pelo carinho!"
+      ]
+    },
+    {
+      "username": "perfil_pausado",
+      "enabled": false
+    }
+  ]
+}
