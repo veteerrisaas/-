@@ -1,0 +1,45 @@
+2026/11/19-09:02:35.492 41ec Reusing MANIFEST C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-tntsportsbr-1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/19-09:02:35.507 41ec Recovering log #299
+2026/11/19-09:02:35.520 41ec Reusing old log C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-tntsportsbr-1\Default\Local Storage\leveldb/000299.log 
+2026/11/19-09:03:35.587 a8fc Level-0 table #303: started
+2026/11/19-09:03:35.619 a8fc Level-0 table #303: 36317 bytes OK
+2026/11/19-09:03:35.625 a8fc Delete type=0 #299
+2026/11/19-09:03:35.627 a8fc Compacting 4@0 + 1@1 files
+2026/11/19-09:03:35.709 a8fc Generated table #304@0: 12798 keys, 852528 bytes
+2026/11/19-09:03:35.709 a8fc Compacted 4@0 + 1@1 files => 852528 bytes
+2026/11/19-09:03:35.712 a8fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:03:35.713 a8fc Delete type=2 #294
+2026/11/19-09:03:35.713 a8fc Delete type=2 #296
+2026/11/19-09:03:35.714 a8fc Delete type=2 #298
+2026/11/19-09:03:35.714 a8fc Delete type=2 #300
+2026/11/19-09:03:35.714 a8fc Delete type=2 #303
+2026/11/19-09:08:37.605 a8fc Level-0 table #306: started
+2026/11/19-09:08:37.642 a8fc Level-0 table #306: 28507 bytes OK
+2026/11/19-09:08:37.644 a8fc Delete type=0 #302
+2026/11/19-09:12:57.511 a8fc Level-0 table #308: started
+2026/11/19-09:12:57.545 a8fc Level-0 table #308: 32608 bytes OK
+2026/11/19-09:12:57.550 a8fc Delete type=0 #305
+2026/11/19-09:21:57.499 a8fc Level-0 table #310: started
+2026/11/19-09:21:57.525 a8fc Level-0 table #310: 38069 bytes OK
+2026/11/19-09:21:57.530 a8fc Delete type=0 #307
+2026/11/19-09:28:37.621 a8fc Level-0 table #312: started
+2026/11/19-09:28:37.654 a8fc Level-0 table #312: 30046 bytes OK
+2026/11/19-09:28:37.657 a8fc Delete type=0 #309
+2026/11/19-09:28:37.659 a8fc Compacting 4@0 + 1@1 files
+2026/11/19-09:28:37.770 a8fc Generated table #313@0: 13170 keys, 870690 bytes
+2026/11/19-09:28:37.770 a8fc Compacted 4@0 + 1@1 files => 870690 bytes
+2026/11/19-09:28:37.772 a8fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:28:37.778 a8fc Delete type=2 #304
+2026/11/19-09:28:37.779 a8fc Delete type=2 #306
+2026/11/19-09:28:37.780 a8fc Delete type=2 #308
+2026/11/19-09:28:37.781 a8fc Delete type=2 #310
+2026/11/19-09:28:37.781 a8fc Delete type=2 #312
+2026/11/19-09:42:37.635 a8fc Level-0 table #315: started
+2026/11/19-09:42:37.666 a8fc Level-0 table #315: 33665 bytes OK
+2026/11/19-09:42:37.669 a8fc Delete type=0 #311
+2026/11/19-09:53:57.523 a8fc Level-0 table #317: started
+2026/11/19-09:53:57.556 a8fc Level-0 table #317: 20866 bytes OK
+2026/11/19-09:53:57.562 a8fc Delete type=0 #314
+2026/11/19-10:16:37.640 a8fc Level-0 table #319: started
+2026/11/19-10:16:37.655 a8fc Level-0 table #319: 15419 bytes OK
+2026/11/19-10:16:37.658 a8fc Delete type=0 #316
