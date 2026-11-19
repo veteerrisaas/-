@@ -1,0 +1,18 @@
+{
+  "categoria": "recently_deleted_content",
+  "numero": 6,
+  "data_original": "out 10, 2026 6:55 da tarde/noite",
+  "legenda": "",
+  "arquivos": [
+    "publicacoes/recently_deleted_content/006/01_18070733534762788.mp4",
+    "publicacoes/recently_deleted_content/006/02_18144954826580156.srt"
+  ],
+  "origens": [
+    "media/reels/18070733534762788.mp4",
+    "media/reels/18144954826580156.srt"
+  ],
+  "ausentes": [],
+  "status": "preparado para revisao",
+  "conta_destino": "a definir",
+  "tipo_original": "post"
+}

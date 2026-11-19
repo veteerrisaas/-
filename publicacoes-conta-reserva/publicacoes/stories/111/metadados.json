@@ -1,0 +1,16 @@
+{
+  "categoria": "stories",
+  "numero": 111,
+  "data_original": "mai 24, 2026 4:30 da manhã",
+  "legenda": "",
+  "arquivos": [
+    "publicacoes/stories/111/01_18098360099323654.mp4"
+  ],
+  "origens": [
+    "media/other/18098360099323654.mp4"
+  ],
+  "ausentes": [],
+  "status": "preparado para revisao",
+  "conta_destino": "a definir",
+  "tipo_original": "story"
+}
