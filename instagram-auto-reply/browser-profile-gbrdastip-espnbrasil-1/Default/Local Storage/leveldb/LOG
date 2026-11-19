@@ -127,3 +127,36 @@
 2026/11/19-10:19:37.419 94c Level-0 table #312: started
 2026/11/19-10:19:37.454 94c Level-0 table #312: 20533 bytes OK
 2026/11/19-10:19:37.457 94c Delete type=0 #309
+2026/11/19-10:21:58.626 94c Level-0 table #314: started
+2026/11/19-10:21:58.656 94c Level-0 table #314: 22484 bytes OK
+2026/11/19-10:21:58.659 94c Delete type=0 #311
+2026/11/19-10:21:58.661 94c Compacting 4@0 + 1@1 files
+2026/11/19-10:21:58.771 94c Generated table #315@0: 23392 keys, 1560788 bytes
+2026/11/19-10:21:58.771 94c Compacted 4@0 + 1@1 files => 1560788 bytes
+2026/11/19-10:21:58.772 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-10:21:58.775 94c Delete type=2 #306
+2026/11/19-10:21:58.776 94c Delete type=2 #308
+2026/11/19-10:21:58.777 94c Delete type=2 #310
+2026/11/19-10:21:58.777 94c Delete type=2 #312
+2026/11/19-10:21:58.777 94c Delete type=2 #314
+2026/11/19-10:25:55.664 94c Level-0 table #317: started
+2026/11/19-10:25:55.696 94c Level-0 table #317: 17715 bytes OK
+2026/11/19-10:25:55.700 94c Delete type=0 #313
+2026/11/19-10:27:57.606 94c Level-0 table #319: started
+2026/11/19-10:27:57.636 94c Level-0 table #319: 18552 bytes OK
+2026/11/19-10:27:57.640 94c Delete type=0 #316
+2026/11/19-10:28:58.658 94c Level-0 table #321: started
+2026/11/19-10:28:58.685 94c Level-0 table #321: 18369 bytes OK
+2026/11/19-10:28:58.691 94c Delete type=0 #318
+2026/11/19-10:30:37.480 94c Level-0 table #323: started
+2026/11/19-10:30:37.510 94c Level-0 table #323: 18393 bytes OK
+2026/11/19-10:30:37.514 94c Delete type=0 #320
+2026/11/19-10:30:37.517 94c Compacting 4@0 + 1@1 files
+2026/11/19-10:30:37.784 94c Generated table #324@0: 23876 keys, 1588562 bytes
+2026/11/19-10:30:37.784 94c Compacted 4@0 + 1@1 files => 1588562 bytes
+2026/11/19-10:30:37.786 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-10:30:37.787 94c Delete type=2 #315
+2026/11/19-10:30:37.787 94c Delete type=2 #317
+2026/11/19-10:30:37.788 94c Delete type=2 #319
+2026/11/19-10:30:37.788 94c Delete type=2 #321
+2026/11/19-10:30:37.788 94c Delete type=2 #323
