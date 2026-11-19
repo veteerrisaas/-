@@ -1,0 +1,5 @@
+Abra catalogo.html para revisar as mídias e legendas.
+Cada pasta em publicacoes contém mídias na ordem original, legenda.txt e metadados.json.
+Os arquivos catalogo.csv e catalogo.json relacionam todos os itens.
+As legendas são originais: revise referências a hoje/amanhã, links e bio para a conta reserva.
+A conta destino ainda não foi definida; nenhum item foi publicado.
