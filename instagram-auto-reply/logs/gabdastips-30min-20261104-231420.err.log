@@ -1,0 +1,9 @@
+[2026-11-04 23:26:05] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/reel/DfV6JoBGWRe/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-04 23:27:22] ERROR [cazetv-1] Erro no post https://www.instagram.com/cazetv/p/DfV9AOtlWm_/: Registro ocupado: C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\data\replied.json.lock. Nenhum envio iniciado.
+[2026-11-04 23:35:33] ERROR [tntsportsbr-1] Falha após reservar o envio para @wilton_felix7 (18110370803154145): locator.click: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('textbox', { name: /(Adicione um coment[áa]rio|Add a comment)/i }).first().locator('xpath=ancestor::form[1]').getByRole('button', { name: /^(Publicar|Postar|Post)$/i }).or(getByRole('textbox', { name: /(Adicione um coment[áa]rio|Add a comment)/i }).first().locator('xpath=ancestor::form[1]').getByText(/^(Publicar|Postar|Post)$/i)).first()[22m
+[2m    - locator resolved to <div tabindex="0" role="button" class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x1f6kntn xl56j7k x17ydfre x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye xl0gqc1 xr5sc7 xlal1re x14jxsvd xt0b8zv xjbqb8w xr9e8f9 x1e4oeot x1ui04y5 x6en5u8 x972fbf x10w94by x1qhh985 x14e42zd xt0psk2 xt7dq6l xexx8yu xyri…>Postar</div>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+. Registro pendente preservado; nenhuma repetição automática.

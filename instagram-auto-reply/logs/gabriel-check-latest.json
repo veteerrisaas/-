@@ -1,0 +1,33 @@
+{
+  "account": "gabrieldastip",
+  "maxAttemptsPerPage": 1,
+  "results": [
+    {
+      "instance": "cazetv-1",
+      "code": 0,
+      "signal": null,
+      "timedOut": false,
+      "log": "logs/gabriel-check-2026-10-25T21-21-17-684Z-cazetv-1.log",
+      "relevant": [
+        "[2026-10-25 18:21:26] INFO  [cazetv-1] Sessao verificada: @gabrieldastip.",
+        "[2026-10-25 18:21:44] INFO  [cazetv-1]   requisição de comentário: HTTP 200, accepted.",
+        "[2026-10-25 18:21:46] INFO  [cazetv-1]   ✔ resposta confirmada (1/1 nesta execução).",
+        "[2026-10-25 18:21:46] INFO  [cazetv-1] Fim do ciclo. Respostas enviadas: 1 (@cazetv: 1)."
+      ]
+    },
+    {
+      "instance": "tntsportsbr-1",
+      "code": 0,
+      "signal": null,
+      "timedOut": false,
+      "log": "logs/gabriel-check-2026-10-25T21-21-17-684Z-tntsportsbr-1.log",
+      "relevant": [
+        "[2026-10-25 18:21:26] INFO  [tntsportsbr-1] Sessao verificada: @gabrieldastip.",
+        "[2026-10-25 18:21:45] INFO  [tntsportsbr-1]   requisição de comentário: HTTP 200, accepted.",
+        "[2026-10-25 18:21:47] INFO  [tntsportsbr-1]   ✔ resposta confirmada (1/1 nesta execução).",
+        "[2026-10-25 18:21:47] INFO  [tntsportsbr-1] Fim do ciclo. Respostas enviadas: 1 (@tntsportsbr: 1)."
+      ]
+    }
+  ],
+  "configurationRestored": true
+}
