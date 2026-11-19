@@ -1,0 +1,8 @@
+2026/10/14-18:41:53.636 6294 Reusing MANIFEST C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/14-18:41:53.637 6294 Recovering log #140
+2026/10/14-18:41:53.639 6294 Level-0 table #143: started
+2026/10/14-18:41:53.642 6294 Level-0 table #143: 16899 bytes OK
+2026/10/14-18:41:53.642 6294 Recovering log #143
+2026/10/14-18:41:53.643 6294 Reusing old log C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile\Default\Local Storage\leveldb/000143.log 
+2026/10/14-18:41:53.644 6294 Delete type=0 #140
+2026/10/14-18:41:53.644 6294 Delete type=2 #144

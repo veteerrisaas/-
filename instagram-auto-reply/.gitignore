@@ -1,0 +1,12 @@
+node_modules/
+browser-profile/
+browser-profile-reserva/
+browser-profile-*/
+data/
+logs/
+screenshots/
+.env
+config.json
+profiles.json
+relatorio-respostas.csv
+relatorio-replied-*.csv
