@@ -1,0 +1,129 @@
+2026/11/19-09:02:35.675 9d34 Reusing MANIFEST C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-espnbrasil-1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/19-09:02:35.684 9d34 Recovering log #257
+2026/11/19-09:02:35.714 9d34 Reusing old log C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-espnbrasil-1\Default\Local Storage\leveldb/000257.log 
+2026/11/19-09:06:37.508 94c Level-0 table #260: started
+2026/11/19-09:06:37.610 94c Level-0 table #260: 19982 bytes OK
+2026/11/19-09:06:37.613 94c Delete type=0 #257
+2026/11/19-09:06:37.688 94c Compacting 4@0 + 1@1 files
+2026/11/19-09:06:37.980 94c Generated table #261@0: 19629 keys, 1315730 bytes
+2026/11/19-09:06:37.980 94c Compacted 4@0 + 1@1 files => 1315730 bytes
+2026/11/19-09:06:37.998 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:06:38.005 94c Delete type=2 #250
+2026/11/19-09:06:38.005 94c Delete type=2 #252
+2026/11/19-09:06:38.005 94c Delete type=2 #254
+2026/11/19-09:06:38.006 94c Delete type=2 #256
+2026/11/19-09:06:38.006 94c Delete type=2 #260
+2026/11/19-09:09:14.728 94c Level-0 table #263: started
+2026/11/19-09:09:14.766 94c Level-0 table #263: 18095 bytes OK
+2026/11/19-09:09:14.769 94c Delete type=0 #259
+2026/11/19-09:11:58.639 94c Level-0 table #265: started
+2026/11/19-09:11:58.655 94c Level-0 table #265: 16602 bytes OK
+2026/11/19-09:11:58.663 94c Delete type=0 #262
+2026/11/19-09:12:58.679 94c Level-0 table #267: started
+2026/11/19-09:12:58.736 94c Level-0 table #267: 30529 bytes OK
+2026/11/19-09:12:58.744 94c Delete type=0 #264
+2026/11/19-09:16:37.398 94c Level-0 table #269: started
+2026/11/19-09:16:37.414 94c Level-0 table #269: 19304 bytes OK
+2026/11/19-09:16:37.418 94c Delete type=0 #266
+2026/11/19-09:16:37.420 94c Compacting 4@0 + 1@1 files
+2026/11/19-09:16:37.517 94c Generated table #270@0: 20210 keys, 1342813 bytes
+2026/11/19-09:16:37.518 94c Compacted 4@0 + 1@1 files => 1342813 bytes
+2026/11/19-09:16:37.519 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:16:37.521 94c Delete type=2 #261
+2026/11/19-09:16:37.521 94c Delete type=2 #263
+2026/11/19-09:16:37.521 94c Delete type=2 #265
+2026/11/19-09:16:37.521 94c Delete type=2 #267
+2026/11/19-09:16:37.521 94c Delete type=2 #269
+2026/11/19-09:21:58.612 94c Level-0 table #272: started
+2026/11/19-09:21:58.646 94c Level-0 table #272: 18614 bytes OK
+2026/11/19-09:21:58.649 94c Delete type=0 #268
+2026/11/19-09:23:58.609 94c Level-0 table #274: started
+2026/11/19-09:23:58.643 94c Level-0 table #274: 19021 bytes OK
+2026/11/19-09:23:58.646 94c Delete type=0 #271
+2026/11/19-09:26:53.889 94c Level-0 table #276: started
+2026/11/19-09:26:53.919 94c Level-0 table #276: 25586 bytes OK
+2026/11/19-09:26:53.922 94c Delete type=0 #273
+2026/11/19-09:30:58.628 94c Level-0 table #278: started
+2026/11/19-09:30:58.663 94c Level-0 table #278: 19815 bytes OK
+2026/11/19-09:30:58.677 94c Delete type=0 #275
+2026/11/19-09:30:58.681 94c Compacting 4@0 + 1@1 files
+2026/11/19-09:30:58.810 94c Generated table #279@0: 21128 keys, 1403744 bytes
+2026/11/19-09:30:58.811 94c Compacted 4@0 + 1@1 files => 1403744 bytes
+2026/11/19-09:30:58.812 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:30:58.816 94c Delete type=2 #270
+2026/11/19-09:30:58.816 94c Delete type=2 #272
+2026/11/19-09:30:58.816 94c Delete type=2 #274
+2026/11/19-09:30:58.816 94c Delete type=2 #276
+2026/11/19-09:30:58.816 94c Delete type=2 #278
+2026/11/19-09:31:58.631 94c Level-0 table #281: started
+2026/11/19-09:31:58.663 94c Level-0 table #281: 19355 bytes OK
+2026/11/19-09:31:58.669 94c Delete type=0 #277
+2026/11/19-09:35:58.613 94c Level-0 table #283: started
+2026/11/19-09:35:58.643 94c Level-0 table #283: 22073 bytes OK
+2026/11/19-09:35:58.647 94c Delete type=0 #280
+2026/11/19-09:36:37.406 94c Level-0 table #285: started
+2026/11/19-09:36:37.440 94c Level-0 table #285: 18767 bytes OK
+2026/11/19-09:36:37.442 94c Delete type=0 #282
+2026/11/19-09:37:37.405 94c Level-0 table #287: started
+2026/11/19-09:37:37.431 94c Level-0 table #287: 16848 bytes OK
+2026/11/19-09:37:37.437 94c Delete type=0 #284
+2026/11/19-09:37:37.440 94c Compacting 4@0 + 1@1 files
+2026/11/19-09:37:37.548 94c Generated table #288@0: 21459 keys, 1435046 bytes
+2026/11/19-09:37:37.549 94c Compacted 4@0 + 1@1 files => 1435046 bytes
+2026/11/19-09:37:37.550 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:37:37.554 94c Delete type=2 #279
+2026/11/19-09:37:37.555 94c Delete type=2 #281
+2026/11/19-09:37:37.555 94c Delete type=2 #283
+2026/11/19-09:37:37.556 94c Delete type=2 #285
+2026/11/19-09:37:37.556 94c Delete type=2 #287
+2026/11/19-09:41:58.639 94c Level-0 table #290: started
+2026/11/19-09:41:58.670 94c Level-0 table #290: 27860 bytes OK
+2026/11/19-09:41:58.675 94c Delete type=0 #286
+2026/11/19-09:44:27.519 94c Level-0 table #292: started
+2026/11/19-09:44:27.550 94c Level-0 table #292: 27047 bytes OK
+2026/11/19-09:44:27.553 94c Delete type=0 #289
+2026/11/19-09:46:58.630 94c Level-0 table #294: started
+2026/11/19-09:46:58.755 94c Level-0 table #294: 16834 bytes OK
+2026/11/19-09:46:58.760 94c Delete type=0 #291
+2026/11/19-09:50:37.406 94c Level-0 table #296: started
+2026/11/19-09:50:37.420 94c Level-0 table #296: 17257 bytes OK
+2026/11/19-09:50:37.423 94c Delete type=0 #293
+2026/11/19-09:50:37.425 94c Compacting 4@0 + 1@1 files
+2026/11/19-09:50:37.488 94c Generated table #297@0: 21953 keys, 1461231 bytes
+2026/11/19-09:50:37.489 94c Compacted 4@0 + 1@1 files => 1461231 bytes
+2026/11/19-09:50:37.489 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:50:37.491 94c Delete type=2 #288
+2026/11/19-09:50:37.491 94c Delete type=2 #290
+2026/11/19-09:50:37.491 94c Delete type=2 #292
+2026/11/19-09:50:37.491 94c Delete type=2 #294
+2026/11/19-09:50:37.491 94c Delete type=2 #296
+2026/11/19-09:54:37.406 94c Level-0 table #299: started
+2026/11/19-09:54:37.433 94c Level-0 table #299: 37386 bytes OK
+2026/11/19-09:54:37.438 94c Delete type=0 #295
+2026/11/19-10:01:58.627 94c Level-0 table #301: started
+2026/11/19-10:01:58.642 94c Level-0 table #301: 18809 bytes OK
+2026/11/19-10:01:58.644 94c Delete type=0 #298
+2026/11/19-10:06:37.417 94c Level-0 table #303: started
+2026/11/19-10:06:37.435 94c Level-0 table #303: 18621 bytes OK
+2026/11/19-10:06:37.442 94c Delete type=0 #300
+2026/11/19-10:12:24.031 94c Level-0 table #305: started
+2026/11/19-10:12:24.061 94c Level-0 table #305: 18643 bytes OK
+2026/11/19-10:12:24.063 94c Delete type=0 #302
+2026/11/19-10:12:24.065 94c Compacting 4@0 + 1@1 files
+2026/11/19-10:12:24.178 94c Generated table #306@0: 22849 keys, 1522987 bytes
+2026/11/19-10:12:24.178 94c Compacted 4@0 + 1@1 files => 1522987 bytes
+2026/11/19-10:12:24.179 94c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-10:12:24.181 94c Delete type=2 #297
+2026/11/19-10:12:24.181 94c Delete type=2 #299
+2026/11/19-10:12:24.181 94c Delete type=2 #301
+2026/11/19-10:12:24.181 94c Delete type=2 #303
+2026/11/19-10:12:24.181 94c Delete type=2 #305
+2026/11/19-10:14:37.430 94c Level-0 table #308: started
+2026/11/19-10:14:37.446 94c Level-0 table #308: 18197 bytes OK
+2026/11/19-10:14:37.450 94c Delete type=0 #304
+2026/11/19-10:17:37.407 94c Level-0 table #310: started
+2026/11/19-10:17:37.441 94c Level-0 table #310: 18936 bytes OK
+2026/11/19-10:17:37.444 94c Delete type=0 #307
+2026/11/19-10:19:37.419 94c Level-0 table #312: started
+2026/11/19-10:19:37.454 94c Level-0 table #312: 20533 bytes OK
+2026/11/19-10:19:37.457 94c Delete type=0 #309
