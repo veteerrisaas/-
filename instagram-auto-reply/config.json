@@ -1,0 +1,66 @@
+{
+  "messages": [
+    "INFORMAÇÃOO! Pra quem tá sem casa para fazer as boa, confere meus storiess ! 😎✅✅",
+    "ATENÇÃOO! Tá sem casa pra fazer a boa? Corre lá nos meus storiess! 😎🔥✅",
+    "ATENÇÃOO, GALERA! Precisando de casa pra fazer a boa? Tá tudo nos meus storiess! 😎💰✅",
+    "INFORMAÇÃOO! Quem tá sem casa pra fazer as boa já sabe, corre nos storiess! 🤑✅✅",
+    "ATENÇÃOO! Pra quem ainda não achou a casa pra fazer a boa, é só ver meus storiess! 😎✅",
+    "INFORMAÇÃOO! Separei a casa certa pra quem quer fazer a boa, confere nos storiess! 😎✅✅",
+    "ATENÇÃOO! Sem casa confiável pra fazer as boa? Os storiess tão te esperando! 😎💰✅",
+    "ALERTAA! Quem tá procurando casa pra fazer a boa, passa nos meus storiess! 🔥✅"
+  ],
+  "messageBank": {
+    "enabled": true,
+    "templatesFile": "message-templates.json"
+  },
+  "zeroActionDelaysFor": ["gbrdastip"],
+  "instanceTargets": {
+    "cazetv": "ge.globo",
+    "tntsportsbr": "tntsportsbr",
+    "geglobo": "ge.globo",
+    "espnbrasil": "espnbrasil",
+    "sportv": "sportv"
+  },
+  "mentionUser": true,
+  "browserMode": "desktop",
+  "quietHours": false,
+  "likeProbability": 0.3,
+  "postsToCheck": 5,
+  "skipPinned": true,
+  "maxLoadMore": 5,
+  "loadAllComments": true,
+  "ignoreEmojiOnly": true,
+  "limits": {
+    "maxPerRun": false,
+    "maxPerDay": false
+  },
+  "delays": {
+    "betweenRepliesSec": [
+      15,
+      20
+    ],
+    "betweenPostsSec": [
+      3,
+      5
+    ],
+    "typingMsPerChar": [
+      8,
+      18
+    ],
+    "beforeClickMs": [250, 600]
+  },
+  "watch": {
+    "intervalMin": [
+      0.25,
+      0.5
+    ],
+    "workSessionMin": false,
+    "breakMin": [0, 0]
+  },
+  "activeHours": [
+    0,
+    24
+  ],
+  "maxCommentAgeMin": 0,
+  "minPostComments": 0
+}

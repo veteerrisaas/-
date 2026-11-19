@@ -1,0 +1,31 @@
+{
+  "messages": [
+    "Obrigado pelo comentário! 💙",
+    "Valeu demais pelo carinho!",
+    "Que bom que gostou, obrigado!"
+  ],
+  "mentionUser": true,
+  "quietHours": [3, 7],
+  "likeProbability": 0.3,
+  "postsToCheck": 5,
+  "minPostComments": 30,
+  "skipPinned": false,
+  "maxLoadMore": 5,
+  "ignoreEmojiOnly": true,
+  "activeHours": [0, 24],
+  "maxCommentAgeMin": 0,
+  "limits": {
+    "maxPerRun": 10,
+    "maxPerDay": 20
+  },
+  "delays": {
+    "betweenRepliesSec": [20, 60],
+    "betweenPostsSec": [5, 15],
+    "typingMsPerChar": [40, 160]
+  },
+  "watch": {
+    "intervalMin": [15, 30],
+    "workSessionMin": 20,
+    "breakMin": [4, 10]
+  }
+}
