@@ -1,0 +1,87 @@
+2026/11/19-09:02:35.654 3df8 Reusing MANIFEST C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-sportv-1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/19-09:02:35.661 3df8 Recovering log #254
+2026/11/19-09:02:35.679 3df8 Reusing old log C:\Users\vitor.oliveira\Desktop\$\instagram-auto-reply\browser-profile-gbrdastip-sportv-1\Default\Local Storage\leveldb/000254.log 
+2026/11/19-09:03:35.758 69b4 Level-0 table #257: started
+2026/11/19-09:03:35.798 69b4 Level-0 table #257: 28113 bytes OK
+2026/11/19-09:03:35.802 69b4 Delete type=0 #254
+2026/11/19-09:07:37.358 69b4 Level-0 table #259: started
+2026/11/19-09:07:37.386 69b4 Level-0 table #259: 23884 bytes OK
+2026/11/19-09:07:37.390 69b4 Delete type=0 #256
+2026/11/19-09:07:37.392 69b4 Compacting 4@0 + 1@1 files
+2026/11/19-09:07:37.484 69b4 Generated table #260@0: 16630 keys, 1112402 bytes
+2026/11/19-09:07:37.484 69b4 Compacted 4@0 + 1@1 files => 1112402 bytes
+2026/11/19-09:07:37.486 69b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:07:37.488 69b4 Delete type=2 #249
+2026/11/19-09:07:37.488 69b4 Delete type=2 #251
+2026/11/19-09:07:37.488 69b4 Delete type=2 #253
+2026/11/19-09:07:37.488 69b4 Delete type=2 #257
+2026/11/19-09:07:37.488 69b4 Delete type=2 #259
+2026/11/19-09:14:37.370 69b4 Level-0 table #262: started
+2026/11/19-09:14:37.395 69b4 Level-0 table #262: 17312 bytes OK
+2026/11/19-09:14:37.398 69b4 Delete type=0 #258
+2026/11/19-09:18:37.361 69b4 Level-0 table #264: started
+2026/11/19-09:18:37.392 69b4 Level-0 table #264: 23431 bytes OK
+2026/11/19-09:18:37.395 69b4 Delete type=0 #261
+2026/11/19-09:24:57.759 69b4 Level-0 table #266: started
+2026/11/19-09:24:57.812 69b4 Level-0 table #266: 17508 bytes OK
+2026/11/19-09:24:57.814 69b4 Delete type=0 #263
+2026/11/19-09:27:37.387 69b4 Level-0 table #268: started
+2026/11/19-09:27:37.425 69b4 Level-0 table #268: 19142 bytes OK
+2026/11/19-09:27:37.428 69b4 Delete type=0 #265
+2026/11/19-09:27:37.430 69b4 Compacting 4@0 + 1@1 files
+2026/11/19-09:27:37.533 69b4 Generated table #269@0: 17130 keys, 1142820 bytes
+2026/11/19-09:27:37.533 69b4 Compacted 4@0 + 1@1 files => 1142820 bytes
+2026/11/19-09:27:37.534 69b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:27:37.536 69b4 Delete type=2 #260
+2026/11/19-09:27:37.536 69b4 Delete type=2 #262
+2026/11/19-09:27:37.536 69b4 Delete type=2 #264
+2026/11/19-09:27:37.536 69b4 Delete type=2 #266
+2026/11/19-09:27:37.536 69b4 Delete type=2 #268
+2026/11/19-09:30:37.404 69b4 Level-0 table #271: started
+2026/11/19-09:30:37.440 69b4 Level-0 table #271: 22155 bytes OK
+2026/11/19-09:30:37.442 69b4 Delete type=0 #267
+2026/11/19-09:38:37.380 69b4 Level-0 table #273: started
+2026/11/19-09:38:37.407 69b4 Level-0 table #273: 17176 bytes OK
+2026/11/19-09:38:37.410 69b4 Delete type=0 #270
+2026/11/19-09:43:11.187 69b4 Level-0 table #275: started
+2026/11/19-09:43:11.207 69b4 Level-0 table #275: 17750 bytes OK
+2026/11/19-09:43:11.213 69b4 Delete type=0 #272
+2026/11/19-09:46:37.383 69b4 Level-0 table #277: started
+2026/11/19-09:46:37.415 69b4 Level-0 table #277: 17193 bytes OK
+2026/11/19-09:46:37.418 69b4 Delete type=0 #274
+2026/11/19-09:46:37.419 69b4 Compacting 4@0 + 1@1 files
+2026/11/19-09:46:37.508 69b4 Generated table #278@0: 17580 keys, 1160872 bytes
+2026/11/19-09:46:37.509 69b4 Compacted 4@0 + 1@1 files => 1160872 bytes
+2026/11/19-09:46:37.510 69b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-09:46:37.511 69b4 Delete type=2 #269
+2026/11/19-09:46:37.511 69b4 Delete type=2 #271
+2026/11/19-09:46:37.511 69b4 Delete type=2 #273
+2026/11/19-09:46:37.511 69b4 Delete type=2 #275
+2026/11/19-09:46:37.511 69b4 Delete type=2 #277
+2026/11/19-09:51:37.401 69b4 Level-0 table #280: started
+2026/11/19-09:51:37.433 69b4 Level-0 table #280: 19659 bytes OK
+2026/11/19-09:51:37.436 69b4 Delete type=0 #276
+2026/11/19-10:01:57.789 69b4 Level-0 table #282: started
+2026/11/19-10:01:57.820 69b4 Level-0 table #282: 17881 bytes OK
+2026/11/19-10:01:57.824 69b4 Delete type=0 #279
+2026/11/19-10:06:37.393 69b4 Level-0 table #284: started
+2026/11/19-10:06:37.417 69b4 Level-0 table #284: 20151 bytes OK
+2026/11/19-10:06:37.419 69b4 Delete type=0 #281
+2026/11/19-10:11:57.780 69b4 Level-0 table #286: started
+2026/11/19-10:11:57.803 69b4 Level-0 table #286: 17202 bytes OK
+2026/11/19-10:11:57.808 69b4 Delete type=0 #283
+2026/11/19-10:11:57.811 69b4 Compacting 4@0 + 1@1 files
+2026/11/19-10:11:57.874 69b4 Generated table #287@0: 18310 keys, 1215300 bytes
+2026/11/19-10:11:57.874 69b4 Compacted 4@0 + 1@1 files => 1215300 bytes
+2026/11/19-10:11:57.875 69b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/19-10:11:57.878 69b4 Delete type=2 #278
+2026/11/19-10:11:57.878 69b4 Delete type=2 #280
+2026/11/19-10:11:57.878 69b4 Delete type=2 #282
+2026/11/19-10:11:57.879 69b4 Delete type=2 #284
+2026/11/19-10:11:57.879 69b4 Delete type=2 #286
+2026/11/19-10:15:57.782 69b4 Level-0 table #289: started
+2026/11/19-10:15:57.813 69b4 Level-0 table #289: 20306 bytes OK
+2026/11/19-10:15:57.816 69b4 Delete type=0 #285
+2026/11/19-10:20:28.450 69b4 Level-0 table #291: started
+2026/11/19-10:20:28.481 69b4 Level-0 table #291: 18216 bytes OK
+2026/11/19-10:20:28.483 69b4 Delete type=0 #288
