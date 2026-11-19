@@ -1,0 +1,23 @@
+[1014/185052.295:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.", source:  (0)
+[1014/185052.297:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage'.", source:  (0)
+[1014/185052.297:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[1014/185053.584:INFO:CONSOLE:252] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yC/r/gbg9zUHdHQP.js (252)
+[1014/185053.584:INFO:CONSOLE:252] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yC/r/gbg9zUHdHQP.js (252)
+[1014/185053.584:INFO:CONSOLE:252] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yC/r/gbg9zUHdHQP.js (252)
+[1014/185053.589:INFO:CONSOLE:252] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yC/r/gbg9zUHdHQP.js (252)
+[1014/185053.861:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.", source:  (0)
+[1014/185053.861:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage'.", source:  (0)
+[1014/185053.861:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[1014/185053.927:INFO:CONSOLE:85] "ErrorUtils caught an error:
+
+GraphQL operation responded with error 1675004: Rate limit exceeded (Operation: PolarisPostChildCommentsQuery)
+
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yC/r/gbg9zUHdHQP.js (85)
+[1014/185054.116:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.", source:  (0)
+[1014/185054.116:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage'.", source:  (0)
+[1014/185054.116:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
